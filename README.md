@@ -1,4 +1,5 @@
-zha - ழ (pronuonced as lha)
+zha - ழ
 ===
+> (pronounced as "lha")
 
 tamil programming language
